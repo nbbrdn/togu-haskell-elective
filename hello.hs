@@ -1,3 +1,3 @@
---hello.hs мой первый Haskell-файл!
+-- hello.hs мой первый Haskell-файл!
 main = do
-    putStrLn "Привет, мир!"
+  putStrLn "Привет, ТОГУ!"
